@@ -18,7 +18,7 @@ output:
 
 <div style="width:480px;padding:5px;background-color: #FAD7A0;">
 
-#### Interactive 1 - Paradigm (10min)
+#### Experience pt. 1 - Paradigms
 
 Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-1">**site**</a> to try out risky choices based on experience and description. 
 </div>
@@ -32,7 +32,7 @@ Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-elem
 
 <div style="width:480px;padding:5px;margin-top:10px;background-color:lightblue">
 
-#### Interactive 2 - Risk communication (20min)
+#### Experience pt. 2 - Risk communication tools
 
 Try out each of the risk communication tools below (simply click on them). Only explore the tool. **Ignore the questions** following the simulation tool. 
 
